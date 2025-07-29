@@ -7,8 +7,10 @@ An industrial-grade CAD model intelligent segmentation system developed based on
 ![image-20250701095628547](https://github.com/BrepMaster/SegCAD/raw/main/1.png)
 
 📦 Download (Windows EXE version):
-链接: https://pan.baidu.com/s/1oQWJKhaPSPTZyjEarlTI3g?pwd=n9ue 
-提取码: n9ue
+
+链接: https://pan.baidu.com/s/152cwyWQOjsbSrqTNwou9dQ?pwd=2iez 
+
+提取码: 2iez
 
 **温馨提示**
 如果本项目对您有所帮助，欢迎点击右上角⭐Star支持！
